@@ -4,4 +4,4 @@ A C# Windows Forms desktop calendar application with features to navigate months
 
 ## Screenshot
 
-Screenshot 2025-11-28 135244.png
+![Calendar Preview](CALENDAR.png)
